@@ -8,6 +8,7 @@ This is a client application used to send event data via HTTP REST requests to S
 
 ### How do I get set up? ###
 
+clone repo into desired folder/directory. Install expressjs using npm install express. Install axios framework using npm install axios.
 
 ### Contribution guidelines ###
 
